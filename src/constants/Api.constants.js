@@ -6,6 +6,7 @@ export const API_RM = {
     },
 
     CHARACTER_BY_ID: function (id){
+        console.log(id);
         return `${this.URL}/character/${id}`;
     }
 }

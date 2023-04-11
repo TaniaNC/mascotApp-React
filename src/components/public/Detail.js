@@ -60,13 +60,13 @@ export const Detail = () => {
               </div>
             </div>
           </div>
-
-          <img
-            className="img-fluid rounded-start imgDetalle"
-            height="auto"
-            src={mascota.image}
-            alt="img del mascota"
-          />
+        
+        <img
+          className="img-fluid rounded-start imgDetalle"
+          height="auto"
+          src={mascota.image}
+          alt="img del mascota"
+        />
         </div>
       </div>
     </div>

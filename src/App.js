@@ -12,9 +12,9 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route exact path={"/"} element={<Main />} />
+        <Route exact path={"/"} element={<Main />}></Route>
         <Route path={"/details/:id"} element={<Detail />} />
-        <Route path={"/user-form"} element={UserForm} />
+        <Route path={"/user-form"} element={<UserForm/>} />
       </Routes>
 
       <Footer />

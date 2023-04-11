@@ -22,7 +22,7 @@ export default class Main extends Component {
         <section className="py-5 text-center container">
           <div className="row py-lg-5">
             <div className="col-lg-6 col-md-8 mx-auto">
-              <h1 className="fw-light">Album example</h1>
+              <h1 className="fw-light">TO DO= que ande la url de user-form</h1>
               <p className="lead text-muted">
                 Something short and leading about the collection
                 below—itscontents, the creator, etc. Make it short and sweet,
